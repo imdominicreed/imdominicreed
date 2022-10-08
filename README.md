@@ -2,6 +2,12 @@
 ---
 I am a computer science student at San Jose State University studying Computer Science and minoring in Mathematics. I really like to code. I like algorithms but do not post my Kattis solutions on here! I hope to do more cool projects here. Some concepts I am interested in (if you are a recruiting trying to reach me out) is compiler/interpreter design, algorithms, and cool codey things. I want to learn more so if you have cool projects please invite me :) 
 
+### Competitive Programming
+----
+I have submitted all my kattis solutions in this github repo!
+https://github.com/imdominicreed/kattis-solutions
+
+
 ### Favorite Projects
 ----
 ### chess engine
